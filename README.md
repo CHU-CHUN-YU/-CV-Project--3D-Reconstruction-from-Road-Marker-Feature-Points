@@ -1,4 +1,4 @@
-# 2023 Spring NTUEE CV - Final Project (Group 13)
+# 2023 Spring NTUEE CV - Final Project 
 ### code structure
 In this submission, there are one `.txt` file, four `.py` files, two default sub directories, which cantain all `.pkl` and `.png` files we used in our algorithm respectivelly, and three potential directories (based on what kind of experiment that user will implement). And, of course, current README `.md` file. Below is the code structure.
 <pre>
